@@ -1,1 +1,1 @@
-# go-module-test
+# go-sdk-test
